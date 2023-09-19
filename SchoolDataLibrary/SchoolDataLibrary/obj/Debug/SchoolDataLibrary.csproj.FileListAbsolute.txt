@@ -1,0 +1,17 @@
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\SchoolDataLibrary.dll
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\SchoolDataLibrary.pdb
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\Castle.Core.dll
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\Moq.dll
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\nunit.framework.dll
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\Castle.Core.xml
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\Moq.xml
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\nunit.framework.xml
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\obj\Debug\SchoolDataLibrary.csproj.AssemblyReference.cache
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\obj\Debug\SchoolDataLibrary.csproj.CoreCompileInputs.cache
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\obj\Debug\SchoolDataLibrary.csproj.CopyComplete
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\obj\Debug\SchoolDataLibrary.dll
+D:\M\Phase3\OSL\SchoolDataLibrary\SchoolDataLibrary\obj\Debug\SchoolDataLibrary.pdb
